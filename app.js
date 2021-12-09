@@ -1,3 +1,4 @@
+console.log('hello world')
 const input = document.getElementById('input')
 const container = document.getElementById('container')
 const btn = document.getElementById('btn')
